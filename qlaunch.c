@@ -5,7 +5,7 @@
  * and filters executables from the PATH based on user input. It is designed
  * to be lightweight and efficient.
  *
- * This project is released under the MIT License.
+ * This project is released under the GNU General Public License Version 3.
  */
 
 #define _DEFAULT_SOURCE
