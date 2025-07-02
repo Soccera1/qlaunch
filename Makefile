@@ -14,7 +14,7 @@ all: $(TARGET)
 $(TARGET): $(OBJ)
 	$(CC) -o $(TARGET) $(OBJ) $(LDFLAGS)
 
-%.o: %.c config.h
+%.o: %.c config.h qlaunch.h
 	$(CC) $(CFLAGS) -c $<
 
 clean:
