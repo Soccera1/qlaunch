@@ -2,7 +2,7 @@
  * qlaunch.h - qlaunch declarations
  *
  * This file contains declarations for global variables and functions used in qlaunch.
- * It is part of the qlaunch project, released under the MIT License.
+ * It is part of the qlaunch project, released under the GNU General Public License Version 3.
  */
 
 #ifndef QLAUNCH_H
