@@ -15,7 +15,7 @@ To build and install qlaunch, follow these steps:
 
 1.  **Clone the repository** (if applicable, assuming it's a git repo):
     ```bash
-    git clone [repository_url]
+    git clone https://github.com/Soccera1/qlaunch.git
     cd qlaunch
     ```
 
